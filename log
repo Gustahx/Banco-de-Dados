@@ -95,3 +95,9 @@ SELECT USER FROM mysql.user
 
 
 SELECT * FROM venda_log
+
+
+//
+botão direito do mouse no arquivo, manutenção , exportar sql , dados: remover e inserir , nome do arquivo , escolhe a pasta colocar o nome do arquivo  
+e exporta
+//
